@@ -1,0 +1,4 @@
+install bottle
+install python
+install pymongo
+install mongodb

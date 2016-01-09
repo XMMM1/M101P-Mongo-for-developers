@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e7e03d2-309f-4a3e-b68b-cb7b9fe987d1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/hw1-1/dump/m101/funnynumbers.bson" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/hw1-1/dump/m101/hw1.bson" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hw1/dump/m101/funnynumbers.bson" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hw1/dump/m101/hw1.bson" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/M101P Mongodbfor developers.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/fruit_form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/hello_world.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/fruit_selection.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/hello_world.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_using_cookies/bottle_files/fruit_form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_using_cookies/bottle_files/hello_world.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_using_cookies/bottle_files/views/fruit_selection.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_using_cookies/bottle_files/views/hello_world.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_mongo_style/pymongo_getting_started.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_on_a_web_server/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/answer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/hw1-1/dump/m101/funnynumbers.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/hw1-1/dump/m101/hw1.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/answer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/hw1-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/answer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/hw1-3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hw1/dump/m101/funnynumbers.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hw1/dump/m101/hw1.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/installing_mongodb_windows/mongod.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/installing_pymongo/pymongo_getting_started.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework/hello_bottle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/pymongo_exception_processing/mongo_exception.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/python_exception_handling/exception_caught.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/python_exception_handling/exception_uncaught.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_1/grades.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_2/grades.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/sessionDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/userDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/validate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/views/blog_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/views/error_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/views/login.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/views/signup.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/views/welcome.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/importing_from_reddit/read_reddit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/importing_from_reddit/reddit.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_find_and_modify/using_find_and_modify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_find_find_one_and_cursors/create_student_collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_find_find_one_and_cursors/using_find.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_insert_many/using_insert_many.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_insert_one/using_insert_one.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_projecting_results_from_find/using_find_with_projection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_removing_data/remove_student_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_sort_skip_and_limit/using_limit_skip_sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_updating/using_update.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_updating_data_using_replace/using_replace_one.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_upserts/using_upsert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_using_a_regex/using_regex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_using_gt_and_lt/find_using_gt_lt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/handling_blobs/using_gridfs/using_gridfs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_1/hw1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_1/students.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/blogPostDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/sessionDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/userDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/validate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/validate_blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/blog_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/entry_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/error_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/login.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/newpost_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/signup.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/views/welcome.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blogPostDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/sessionDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/userDAO.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/validate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/validate_blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/blog_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/entry_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/error_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/login.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/newpost_template.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/signup.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/welcome.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instructions" />
+    </list>
+    <ignored path="M101P Mongodbfor developers.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/M101P Mongodbfor developers$hello_bottle.coverage" NAME="hello_bottle Coverage Results" MODIFIED="1438889251622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="M101P Mongodbfor developers" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="blog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="166" column="22" selection-start-line="166" selection-start-column="22" selection-end-line="166" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blogPostDAO.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blogPostDAO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.034642033">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instructions" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instructions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answer" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/answer">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answer" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/answer">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answer" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/answer">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessionDAO.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/sessionDAO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newpost_template.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/newpost_template.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDAO.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/userDAO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_2/grades.json" />
+        <option value="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/userDAO.py" />
+        <option value="$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_find_find_one_and_cursors/using_find.py" />
+        <option value="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_1/students.json" />
+        <option value="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_1/hw1.py" />
+        <option value="$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blogPostDAO.py" />
+        <option value="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/answer" />
+        <option value="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/answer" />
+        <option value="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/answer" />
+        <option value="$PROJECT_DIR$/instructions" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="23" />
+    <option name="width" value="1241" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter_3_schema_design.d41301cc1bf6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M101P Mongodbfor developers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter_3_schema_design.d41301cc1bf6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handling_blobs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="using_gridfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dropbox/www/dev" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistoryKey" value="find&#9;null&#9;null&#10;usin&#9;null&#9;null" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Python.hello_bottle">
+    <configuration default="false" name="hello_bottle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework/hello_bottle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="M101P Mongodbfor developers" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.hello_bottle" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.hello_bottle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e7e03d2-309f-4a3e-b68b-cb7b9fe987d1" name="Default" comment="" />
+      <created>1438887744582</created>
+      <option name="number" value="Default" />
+      <updated>1438887744582</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init MongoDb Class 2016">
+      <created>1452345298793</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452345298793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="23" width="1241" height="777" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23368251" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987747" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3240469" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987747" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init MongoDb Class 2016" />
+    <option name="LAST_COMMIT_MESSAGE" value="init MongoDb Class 2016" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/fruit_selection.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/hello_world.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/hw1-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/hw1-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/installing_pymongo/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_on_a_web_server/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_mongo_style/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework/hello_bottle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/fruit_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/fruit_selection.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/hello_world.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/hw1-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/hw1-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/installing_pymongo/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_on_a_web_server/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_mongo_style/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework/hello_bottle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/installing_pymongo/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_on_a_web_server/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_mongo_style/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/installing_pymongo/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_mongo_style/pymongo_getting_started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/hello_world_on_a_web_server/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/fruit_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/fruit_selection.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/bottle_framework_url_handlers/bottle_files/views/hello_world.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/hw1-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/hw1-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/introduction_to_bottle_web_framework/hello_bottle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.047393367">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_1/grades.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="89" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_2/grades.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/homework_2_3/login_logout_signup/login_logout_signup/userDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2857143">
+          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_find_find_one_and_cursors/using_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_using_gt_and_lt/find_using_gt_lt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/handling_blobs/using_gridfs/using_gridfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_1/students.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2_crud.9cf34b525be3/pymongo_updating/using_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_1/hw1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_2/hw3-2and3-3/hw3-2and3-3/validate_blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="166" column="22" selection-start-line="166" selection-start-column="22" selection-end-line="166" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/blogPostDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/sessionDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/views/newpost_template.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3_schema_design.d41301cc1bf6/homework_3_3/hw3-2and3-3/hw3-2and3-3/userDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_3/answer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_1/answer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1_introduction.e9b31121cdb8/homework_1_2/answer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.034642033">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
