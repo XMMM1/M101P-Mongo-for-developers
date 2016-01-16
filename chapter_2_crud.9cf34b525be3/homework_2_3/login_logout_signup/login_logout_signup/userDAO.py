@@ -45,7 +45,7 @@ class UserDAO:
 
     def make_pw_hash(self, pw,salt=None):
         if salt == None:
-            salt = self.make_salt();
+            salt = self.make_salt()
         return hashlib.sha256(pw + salt).hexdigest()+","+ salt
 
     # Validates a user login. Returns user record or None
