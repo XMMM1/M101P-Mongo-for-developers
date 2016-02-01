@@ -54,7 +54,7 @@ class BlogPostDAO:
 
         # now insert the post
         try:
-            # XXX HW 3.2 Work Here to insert the post
+            self.posts.insert_one(post)
             print "Inserting the post"
         except:
             print "Error inserting post"
@@ -65,10 +65,7 @@ class BlogPostDAO:
     # returns an array of num_posts posts, reverse ordered
     def get_posts(self, num_posts):
 
-        cursor = []         # Placeholder so blog compiles before you make your changes
-
-        # XXX HW 3.2 Work here to get the posts
-
+        cursor = self.posts.find().sort('date', direction=-1).limit(num_posts)
         l = []
 
         for post in cursor:
@@ -86,13 +83,38 @@ class BlogPostDAO:
 
         return l
 
+    # returns an array of num_posts posts, reverse ordered, filtered by tag
+    def get_posts_by_tag(self, tag, num_posts):
+
+        cursor = self.posts.find({'tags':tag}).sort('date', direction=-1).limit(num_posts)
+        l = []
+
+        for post in cursor:
+            post['date'] = post['date'].strftime("%A, %B %d %Y at %I:%M%p")     # fix up date
+            if 'tags' not in post:
+                post['tags'] = []           # fill it in if its not there already
+            if 'comments' not in post:
+                post['comments'] = []
+
+            l.append({'title': post['title'], 'body': post['body'], 'post_date': post['date'],
+                      'permalink': post['permalink'],
+                      'tags': post['tags'],
+                      'author': post['author'],
+                      'comments': post['comments']})
+
+        return l
+
     # find a post corresponding to a particular permalink
     def get_post_by_permalink(self, permalink):
 
-        post = None
-        # XXX Work here to retrieve the specified post
+        post = self.posts.find_one({'permalink': permalink})
 
         if post is not None:
+            # fix up likes values. set to zero if data is not present
+            for comment in post['comments']:
+                if 'num_likes' not in comment:
+                    comment['num_likes'] = 0
+
             # fix up date
             post['date'] = post['date'].strftime("%A, %B %d %Y at %I:%M%p")
 
@@ -107,8 +129,8 @@ class BlogPostDAO:
             comment['email'] = email
 
         try:
-            last_error = {'n':-1}           # this is here so the code runs before you fix the next line
-            # XXX HW 3.3 Work here to add the comment to the designated post
+            last_error = self.posts.update_one({'permalink': permalink}, {'$push': {'comments': comment}}, upsert=False)
+
 
             return last_error['n']          # return the number of documents updated
 
@@ -116,3 +138,12 @@ class BlogPostDAO:
             print "Could not update the collection, error"
             print "Unexpected error:", sys.exc_info()[0]
             return 0
+
+
+
+
+
+
+
+
+

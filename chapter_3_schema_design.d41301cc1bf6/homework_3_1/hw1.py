@@ -1,7 +1,7 @@
 import pymongo
 import datetime
 import sys
-
+# mongoimport -d school -c students < students.json
 # establish a connection to the database
 connection = pymongo.MongoClient("mongodb://localhost")
 
@@ -32,8 +32,7 @@ def hw1():
             score1 = score['scores']
             newScore = RemoveLowest(score1)
             # print newScore
-            # print newScore
-            scores.update({'_id': id}, {'$set': {'scores': newScore}})
+            scores.update_one({'_id': id}, {'$set': {'scores': newScore}})
 
     except Exception as e:
         raise
