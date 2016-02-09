@@ -1,1 +1,17 @@
-db.posts.aggregate([{$project:{_id:0, comments:"$comments.author"}}, {$unwind: "$comments"}, {$project: {comment_author:"$comments"}}, {$group: {_id: "$comment_author", number_of_comments: {$sum:1}}}, {$sort: {number_of_comments: -1}}]);
+mongoimport -d blog -c posts -j 4 --drop posts.json //use multiple workers to insert into db's
+
+
+db.posts.aggregate([
+    {$project:{_id:0, comments:"$comments.author"}}, {$unwind: "$comments"},
+    {$project: {comment_author:"$comments"}},
+    {$group: {_id: "$comment_author", number_of_comments: {$sum:1}}},
+    {$sort: {number_of_comments: -1}}
+]);
+
+
+db.posts.aggregate([
+    {$project:{_id:0, comments:"$comments.author"}}, {$unwind: "$comments"},
+    {$project: {comment_author:"$comments"}},
+    {$group: {_id: "$comment_author", number_of_comments: {$sum:1}}},
+    {$sort: {number_of_comments: 1}}
+]);
